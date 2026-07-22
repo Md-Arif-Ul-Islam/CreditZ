@@ -109,7 +109,7 @@ Cloud backups are authenticated through secure **OAuth 2.0 client authentication
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/CreditZ.git
+   git clone https://github.com/Md-Arif-Ul-Islam/CreditZ
    cd CreditZ
    ```
 
@@ -132,4 +132,6 @@ Cloud backups are authenticated through secure **OAuth 2.0 client authentication
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+© 2026 Md-Arif-Ul-Islam. All rights reserved
+
+
